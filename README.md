@@ -1,6 +1,6 @@
-# Basic JavaScript project template for Phaser Editor v4.
+# Angry Balls - A Box2D demo
 
-This is a Phaser Editor v4 project template.
+This is a Phaser Editor v4 project demo.
 
 ## Configuration
 
